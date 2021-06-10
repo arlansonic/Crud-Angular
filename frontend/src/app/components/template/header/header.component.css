@@ -26,3 +26,8 @@
 .header .title-group i{
     padding-right: 5px;
 }
+
+.link:visited{    
+    text-decoration: none;
+    color: #fff;
+}
