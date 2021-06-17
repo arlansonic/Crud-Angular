@@ -14,6 +14,16 @@
       "id": 3,
       "name": "Macarrão",
       "price": 3
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 5
     }
   ]
 }
