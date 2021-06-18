@@ -1,29 +1,23 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Arroz",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Feijão",
-      "price": 7
-    },
-    {
-      "id": 3,
-      "name": "Macarrão",
-      "price": 3
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 125.98,
-      "id": 4
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 125.98,
-      "id": 5
-    }
-  ]
+    "products": [{
+            "id": 1,
+            "name": "Arroz",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Feijão",
+            "price": 7
+        },
+        {
+            "id": 3,
+            "name": "Macarrão",
+            "price": 3
+        },
+        {
+            "name": "Produto de Teste",
+            "price": 125.98,
+            "id": 4
+        }
+    ]
 }
