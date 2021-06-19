@@ -34,6 +34,11 @@
       "name": "Feijão",
       "price": "5.50",
       "id": 7
+    },
+    {
+      "name": "Lapis",
+      "price": "5.00",
+      "id": 8
     }
   ]
 }
