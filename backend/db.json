@@ -1,23 +1,39 @@
 {
-    "products": [{
-            "id": 1,
-            "name": "Arroz",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Feijão",
-            "price": 7
-        },
-        {
-            "id": 3,
-            "name": "Macarrão",
-            "price": 3
-        },
-        {
-            "name": "Produto de Teste",
-            "price": 125.98,
-            "id": 4
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Arroz",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Feijão",
+      "price": 7
+    },
+    {
+      "id": 3,
+      "name": "Macarrão",
+      "price": 3
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Arlan Marreiro",
+      "price": "900",
+      "id": 5
+    },
+    {
+      "name": "Apollo Henrique",
+      "price": "500",
+      "id": 6
+    },
+    {
+      "name": "Feijão",
+      "price": "5.50",
+      "id": 7
+    }
+  ]
 }
