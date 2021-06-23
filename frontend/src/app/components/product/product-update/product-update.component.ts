@@ -30,7 +30,7 @@ export class ProductUpdateComponent implements OnInit {
     })
   }
 
-  cancel(): void {
+  cancel(): void {    
     this.router.navigate(['/products'])
   }
 
