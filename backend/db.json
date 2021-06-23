@@ -16,12 +16,12 @@
       "price": 3
     },
     {
-      "name": "Produto de Teste",
+      "name": "Produto",
       "price": 125.98,
       "id": 4
     },
     {
-      "name": "Arlan Marreiro",
+      "name": "Arlan Marreiro de Souza Nascimento",
       "price": "900",
       "id": 5
     },
@@ -39,6 +39,26 @@
       "name": "Lapis",
       "price": "5.00",
       "id": 8
+    },
+    {
+      "name": "Leite Condensado",
+      "price": "4.30",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 11
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 12
     }
   ]
 }
