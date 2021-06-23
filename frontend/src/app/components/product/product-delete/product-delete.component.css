@@ -1,9 +1,9 @@
 form {
-    padding: 15px;
+    padding: 10px;
     display: flex;
     flex-direction: column;
 }
 
 button {
-    margin: 15px 15px 0px 0px;
+    margin: 20px 15px 0px 0px;
 }

@@ -17,7 +17,7 @@ export class ProductUpdateComponent implements OnInit {
     , private route: ActivatedRoute) { }
 
   ngOnInit(): void { /* Puxar as informações od formulario para atualizar */
-    const id = this.route.snapshot.paramMap.get('id')
+    const id = +this.route.snapshot.paramMap.get('id')
     this.productService.readById(id).subscribe(product => {
       this.product = product
     })
